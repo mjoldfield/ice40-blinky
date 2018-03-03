@@ -1,0 +1,4 @@
+set_io LED1 40
+set_io LED2 51
+set_io CLK  15
+set_io TSTA 24
